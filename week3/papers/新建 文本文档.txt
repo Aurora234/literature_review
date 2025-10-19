@@ -1,0 +1,21 @@
+Ruslan Salakhutdinov, Andriy Mnih, and Geoffrey Hinton. 2007. Restricted Boltzmann machines for collaborative filtering. In Proceedings of the 24th international conference on Machine learning (ICML '07). Association for Computing Machinery, New York, NY, USA, 791–798
+
+Y. Lecun, L. Bottou, Y. Bengio and P. Haffner, "Gradient-based learning applied to document recognition," in Proceedings of the IEEE, vol. 86, no. 11, pp. 2278-2324, Nov. 1998, doi: 10.1109/5.726791.
+
+J. Deng, W. Dong, R. Socher, L. -J. Li, Kai Li and Li Fei-Fei, "ImageNet: A large-scale hierarchical image database," 2009 IEEE Conference on Computer Vision and Pattern Recognition, Miami, FL, USA, 2009, pp. 248-255
+
+Y. LeCun et al., "Backpropagation Applied to Handwritten Zip Code Recognition," in Neural Computation, vol. 1, no. 4, pp. 541-551, Dec. 1989, doi: 10.1162/neco.1989.1.4.541.
+
+Y. Le Cun, B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel. 1989. Handwritten digit recognition with a back-propagation network. In Proceedings of the 3rd International Conference on Neural Information Processing Systems (NIPS'89). MIT Press, Cambridge, MA, USA, 396–404.
+
+[1]郑远攀,李广阳,李晔.深度学习在图像识别中的应用研究综述[J].计算机工程与应用,2019,55(12):20-36.
+[1]孙志军,薛磊,许阳明,等.深度学习研究综述[J].计算机应用研究,2012,29(08):2806-2810.DOI:CNKI:SUN:JSYJ.0.2012-08-003.
+[1]卢宏涛,张秦川.深度卷积神经网络在计算机视觉中的应用研究综述[J].数据采集与处理,2016,31(01):1-17.DOI:10.16337/j.1004-9037.2016.01.001.
+[1]樊雅琴,王炳皓,王伟,等.深度学习国内研究综述[J].中国远程教育,2015,(06):27-33+79.DOI:10.13541/j.cnki.chinade.2015.06.007.
+[1]梁迎丽,刘陈.人工智能教育应用的现状分析、典型特征与发展趋势[J].中国电化教育,2018,(03):24-30.
+[1]张浩,吴秀娟,王静.深度学习的目标与评价体系构建[J].中国电化教育,2014,(07):51-55.DOI:CNKI:SUN:ZDJY.0.2014-07-009.
+[1]朱光辉,王喜文.ChatGPT的运行模式、关键技术及未来图景[J].新疆师范大学学报(哲学社会科学版),2023,44(04):113-122.DOI:10.14100/j.cnki.65-1039/g4.20230217.001.
+
+
+
+
